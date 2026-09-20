@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://hafalatsh.com/sitemap.xml
-https://hafalatsh.com/
