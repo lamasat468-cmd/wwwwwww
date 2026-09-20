@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.com/sitemap.xml
-https://example.com/
+Sitemap: https://hafalatsh.com/sitemap.xml
+https://hafalatsh.com/
